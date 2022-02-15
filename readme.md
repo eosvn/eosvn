@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eosvn" alt="eosvn" /> </p>
 
-- 🔭 Bilge Adam Technologies [Bilge Adam Technologies](http://bilgeadamtechnologies.com)
-
-- 🌱 I’m currently learning **dotnetcore,xamarin,flutter,angularJS**
+- 🌱 I’m currently learning **Python for AI,tensorflow for JS,flutter, Blockchain NFT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eosvn?tab=repositories](https://github.com/eosvn?tab=repositories)
 
 - 📝 I regulary write articles on [https://medium.com/@eosvn](https://medium.com/@os.solutionvn)
 
-- 💬 Ask me about **dotnet, dotnetcore, microservice architecture, clean architecture, C#, gRPC, RabbitMQ and backend ecosystem**
+- 💬 Ask me about **VueJS, NodeJS, Laravel, C#, gRPC, RabbitMQ and backend ecosystem**
 
 - 📫 How to reach me **os.solutionvn@gmail.com**
 

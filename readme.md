@@ -1,40 +1,107 @@
-<h1 align="center">Hi 👋, I'm Be Duc Tai</h1>
-<h3 align="center">I want to change the world, give me the source code.</h3>
-<h4 align="center">I ❤ Open Source.</h4>
+# Hi, I'm Tài 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eosvn" alt="eosvn" /> </p>
+### Full-Stack Developer · Software Builder · AI Enthusiast
 
-- 🌱 I’m currently learning **Python for AI,tensorflow for JS,flutter, Blockchain NFT**
+I'm a software developer from Vietnam 🇻🇳, focused on building practical, scalable, and maintainable applications.
 
-- 👨‍💻 All of my projects are available at [https://github.com/eosvn?tab=repositories](https://github.com/eosvn?tab=repositories)
+I enjoy turning ideas into real products — from backend APIs and web applications to mobile apps, e-commerce tools, automation, and AI-powered solutions.
 
-- 📝 I regulary write articles on [https://medium.com/@eosvn](https://medium.com/@os.solutionvn)
+---
 
-- 💬 Ask me about **VueJS, NodeJS, Laravel, C#, gRPC, RabbitMQ and backend ecosystem**
+## 🚀 About Me
 
-- 📫 How to reach me **os.solutionvn@gmail.com**
+- 💻 Full-Stack Web Developer
+- ⚙️ Building scalable APIs and backend systems
+- 📱 Exploring mobile development with React Native & Expo
+- 🤖 Interested in AI, LLMs, MCP, automation, and AI-powered applications
+- 🛒 Building apps and tools for the Shopify ecosystem
+- 🐳 Working with Docker, Linux, CI/CD, and cloud infrastructure
+- 🧠 Always experimenting with new technologies and turning ideas into products
 
-<hr/>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eosvn" alt="eosvn" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eosvn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eosvn" height="30" width="40" /></a>
-<a href="https://medium.com/@eosvn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@eosvn" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+**Backend**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eosvn&show_icons=true&locale=en&layout=compact" alt="eosvn" /></p>
+`Node.js` · `NestJS` · `Express.js` · `Fastify` · `REST API` · `Prisma`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eosvn&show_icons=true&locale=en" alt="eosvn" /></p>
+**Frontend**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eosvn&" alt="eosvn" /></p>
+`React` · `Next.js` · `Vue.js` · `Nuxt.js` · `TypeScript` · `JavaScript`
 
-## To see the 2020 summary
-<a href="https://profile.codersrank.io/year-in-review-2020/user/724b3e96db60a7e7fc29229f0728ce93/" target="_top">Summary</a>
+**Mobile**
 
------
-Credits: [eosvn](https://github.com/eosvn)
+`React Native` · `Expo`
+
+**Database & Infrastructure**
+
+`PostgreSQL` · `MySQL` · `Redis` · `Docker` · `Nginx` · `Linux`
+
+**Authentication & Services**
+
+`Keycloak` · `OAuth` · `SSO` · `Cloudflare`
+
+**AI & Automation**
+
+`OpenAI` · `Claude` · `Codex` · `MCP` · `AI APIs` · `FFmpeg` · `Remotion`
+
+**E-commerce**
+
+`Shopify` · `Shopify Apps` · `Shopify CLI` · `WordPress`
+
+---
+
+## 🔨 What I'm Building
+
+I like working on products that combine software engineering with real-world use cases:
+
+- 🤖 AI-powered SaaS applications
+- 🛍️ Shopify apps and merchant tools
+- 🎬 Automated video generation
+- 🗺️ Map and location-based applications
+- 🔐 Authentication & SSO systems
+- ⚡ Backend APIs and microservices
+- 🧩 AI agents, MCP servers, and developer automation
+
+---
+
+## 💡 Current Interests
+
+```text
+AI Agents
+LLM Integration
+Model Context Protocol (MCP)
+Developer Tools
+Automation
+SaaS
+Shopify Apps
+Backend Architecture
+Video Generation
+```
+
+I'm especially interested in how AI can move beyond chat and become part of real software systems — connecting with APIs, tools, databases, and existing applications.
+
+---
+
+## 📊 GitHub
+
+I use GitHub to build, experiment, learn, and ship.
+
+Some repositories are production projects, while others are experiments exploring new technologies and ideas.
+
+> Build things. Learn fast. Improve continuously.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+**Software Engineering · AI · SaaS · Shopify · Open Source · Developer Tools**
+
+If you're working on something interesting, feel free to reach out.
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
